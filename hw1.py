@@ -2,4 +2,4 @@ print("How are you?")
 
 
 
-print("I hate CATS")
+print("I hate cats and dogs")
